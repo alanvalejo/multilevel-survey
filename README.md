@@ -1,6 +1,6 @@
 ### A critical survey of the multilevel method in complex networks
 
-This repository will maintain the article's metadata (is coming soon)
+This repository will maintain the article's metadata. It is coming soon.
 
 **References**
 
